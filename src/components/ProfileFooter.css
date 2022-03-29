@@ -1,0 +1,16 @@
+.socials {
+  background-color: #161619;
+  width: 317px;
+  height: 65px;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  border-radius: 0px 0px 10px 10px;
+}
+
+.social {
+  width: 25px;
+  height: 25px;
+  cursor: pointer;
+  color: #918e9b;
+}
